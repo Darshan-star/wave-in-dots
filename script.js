@@ -38,4 +38,4 @@ function growCircles(i, j) {
 			}, 300);
 		}
 	}
-}
+} 
